@@ -1,0 +1,54 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    vertical-align:text-bottom;
+}
+
+div {
+//	border: 1px solid;
+	border-color: red;
+}
+
+
+H1 {
+    font-family: 'Noto Serif', serif;
+    color: navy;
+    font-size:60px;
+}
+
+H2 {
+    font-family: 'Noto Serif', serif;
+    color: navy;
+    font-size:30px;
+    padding-bottom:15px;
+    padding-top: 15px;
+    font-weight:400;
+}
+
+.logo {
+    padding-top: 16px;
+}
+
+.menu {
+//    border: 1px solid;
+//    border-radius: 25px;
+//    border-color: navy;
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+.menu ul {
+    display: inline-block;
+}
+
+.banner {
+    border: 1px solid;
+    border-radius: 25px;
+    border-color: navy;
+}
+
