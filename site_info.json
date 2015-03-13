@@ -1,0 +1,25 @@
+var sites = {
+    "stps": [
+        {
+            "name": "Bothell-3",
+            "address": "18715 120th Ave NE",
+            "city": "Bothell",
+            "state": "WA",
+            "zip": "98021"
+        },
+        {
+            "name": "Bothell-9",
+            "address": "TBD Monte Villa Pkwy NE",
+            "city": "Bothell",
+            "state": "WA",
+            "zip": "98011"
+        },
+        {
+            "name": "Sacramento",
+            "address": "10000 Goethe Way",
+            "city": "Sacramento",
+            "state": "WA",
+            "zip": "95555"
+        }
+    ]
+}
